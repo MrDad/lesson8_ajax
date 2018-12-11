@@ -4,21 +4,20 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+Decemeber, 10,2018
 
 ### Student Name:  
-(First and Last Name)
+Anthony Haddad
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+A quick lesson on ajax, json, and api to create a quick web app
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://mrdad.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-4. (Briefly describe a lesson/concept learned in this lesson.)
-5. (Briefly describe a lesson/concept learned in this lesson.)# lesson8_ajax
+1. What an api is - Application Program Interface
+2. how to integrate an api into my own web pages
+3. AJAX is an asynchronous use of javascript
+4. JSON can be used to transmit data from an api
+5. Big has an 8.936 popularity rating, surprising because its a good movie, while sharknado has a 11.568 popularity rating. :( # lesson8_ajax
