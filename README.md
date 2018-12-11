@@ -21,4 +21,4 @@ LIS 2360:  Web Application Development
 2. (Briefly describe a lesson/concept learned in this lesson.)
 3. (Briefly describe a lesson/concept learned in this lesson.)
 4. (Briefly describe a lesson/concept learned in this lesson.)
-5. (Briefly describe a lesson/concept learned in this lesson.)
+5. (Briefly describe a lesson/concept learned in this lesson.)# lesson8_ajax
